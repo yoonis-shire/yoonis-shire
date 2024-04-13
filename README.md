@@ -2,6 +2,6 @@ Hello, my name is Yoonis Shire I am full stack software developer having experie
 
 My interests outside of technology are playing basketball and soccer as well as mixed martial arts and, in my downtime, enjoy playing campaign and multiplayer video games, currently doing a Dark Souls Marathon.    
 
-[LinkedIn Profile](https://www.linkedin.com/in/yoonis-shire-a6a41128b/)
+[LinkedIn](https://www.linkedin.com/in/yoonis-shire-a6a41128b/)
 
 
