@@ -4,5 +4,5 @@ My interests outside of technology are playing basketball and soccer as well as 
 
 [LinkedIn](https://www.linkedin.com/in/yoonis-shire-a6a41128b/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,ubuntu,py,npm,nodejs,MongoDB,jest,githubactions,git,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,ubuntu,py,npm,nodejs,jest,githubactions,git,docker,bash,MongoDB)](https://skillicons.dev)
 
